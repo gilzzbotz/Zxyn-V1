@@ -3648,7 +3648,7 @@ let btn = [{
                                 }, {
                                 urlButton: {
                                     displayText: 'Group Bot🔗',
-                                    url: 'https://chat.whatsapp.com/LlJzTGiOZHi9njJoZuXVn8'
+                                    url: 'https://chat.whatsapp.com/Cf6QS5qw8kP5NOIljN1cqH'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3728,7 +3728,7 @@ let btn = [{
                                 }, {
                                 urlButton: {
                                     displayText: 'Group Bot🔗',
-                                    url: 'https://chat.whatsapp.com/LlJzTGiOZHi9njJoZuXVn8'
+                                    url: 'https://chat.whatsapp.com/Cf6QS5qw8kP5NOIljN1cqH'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3803,7 +3803,7 @@ let btn = [{
                                 }, {
                                 urlButton: {
                                     displayText: 'Group Bot🔗',
-                                    url: 'https://chat.whatsapp.com/LlJzTGiOZHi9njJoZuXVn8'
+                                    url: 'https://chat.whatsapp.com/Cf6QS5qw8kP5NOIljN1cqH'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4968,6 +4968,8 @@ https://github.com/Abuzzpoet
 Fax (Fardan)
 Sonel :
 https://github.com/sonelstore
+Gilzz:
+https://github.com/gilzzbotz
 Penyedia Rest Api :
 https://zenzapis.xyz`
 	let btn = [{
